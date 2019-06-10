@@ -1,0 +1,15 @@
+.contact-block {
+    h4 {
+        margin: 0;
+    }
+    .card-title {
+        margin-right: 10px;
+        color: royalblue;
+    }
+    .card-button-wrapper {
+        flex-grow: 1;
+        i {
+            cursor: pointer;
+        }
+    }
+}

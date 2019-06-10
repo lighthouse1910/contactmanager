@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/contact-manager/static/css/main.af5fe690.chunk.css",
-    "main.js": "/contact-manager/static/js/main.102de6b7.chunk.js",
-    "main.js.map": "/contact-manager/static/js/main.102de6b7.chunk.js.map",
-    "runtime~main.js": "/contact-manager/static/js/runtime~main.b61356a3.js",
-    "runtime~main.js.map": "/contact-manager/static/js/runtime~main.b61356a3.js.map",
-    "static/css/2.45838f62.chunk.css": "/contact-manager/static/css/2.45838f62.chunk.css",
-    "static/js/2.e02620e2.chunk.js": "/contact-manager/static/js/2.e02620e2.chunk.js",
-    "static/js/2.e02620e2.chunk.js.map": "/contact-manager/static/js/2.e02620e2.chunk.js.map",
-    "index.html": "/contact-manager/index.html",
-    "precache-manifest.ba4eea226eea1ab12fd3c35a8075e828.js": "/contact-manager/precache-manifest.ba4eea226eea1ab12fd3c35a8075e828.js",
-    "service-worker.js": "/contact-manager/service-worker.js",
-    "static/css/2.45838f62.chunk.css.map": "/contact-manager/static/css/2.45838f62.chunk.css.map",
-    "static/css/main.af5fe690.chunk.css.map": "/contact-manager/static/css/main.af5fe690.chunk.css.map",
-    "static/media/font-awesome.css": "/contact-manager/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/contactmanager/static/css/main.af5fe690.chunk.css",
+    "main.js": "/contactmanager/static/js/main.1000bd90.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.1000bd90.chunk.js.map",
+    "runtime~main.js": "/contactmanager/static/js/runtime~main.884ecd02.js",
+    "runtime~main.js.map": "/contactmanager/static/js/runtime~main.884ecd02.js.map",
+    "static/css/2.bcd71f89.chunk.css": "/contactmanager/static/css/2.bcd71f89.chunk.css",
+    "static/js/2.e02620e2.chunk.js": "/contactmanager/static/js/2.e02620e2.chunk.js",
+    "static/js/2.e02620e2.chunk.js.map": "/contactmanager/static/js/2.e02620e2.chunk.js.map",
+    "index.html": "/contactmanager/index.html",
+    "precache-manifest.2e97722c137dd749886482481f0cafed.js": "/contactmanager/precache-manifest.2e97722c137dd749886482481f0cafed.js",
+    "service-worker.js": "/contactmanager/service-worker.js",
+    "static/css/2.bcd71f89.chunk.css.map": "/contactmanager/static/css/2.bcd71f89.chunk.css.map",
+    "static/css/main.af5fe690.chunk.css.map": "/contactmanager/static/css/main.af5fe690.chunk.css.map",
+    "static/media/font-awesome.css": "/contactmanager/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
